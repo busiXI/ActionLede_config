@@ -1,4 +1,4 @@
-name: 生成配置文件
+name: 生成配置文件 
 
 on:
   # repository_dispatch:
